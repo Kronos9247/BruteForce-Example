@@ -105,9 +105,6 @@ namespace BruteForce_Example
                 list.Add(outs);
                 outs = "";
 
-                int cchar = combs[0];
-                int next = NextChar(cchar);
-
                 if (Rekursive(combs, 0))
                 {
                     break;
