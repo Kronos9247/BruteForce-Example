@@ -1,7 +1,0 @@
-C:\Users\Rafael\source\repos\BruteForce Example\BruteForce Example\bin\Debug\BruteForce Example.exe.config
-C:\Users\Rafael\source\repos\BruteForce Example\BruteForce Example\bin\Debug\BruteForce Example.exe
-C:\Users\Rafael\source\repos\BruteForce Example\BruteForce Example\bin\Debug\BruteForce Example.pdb
-C:\Users\Rafael\source\repos\BruteForce Example\BruteForce Example\obj\Debug\BruteForce Example.csprojResolveAssemblyReference.cache
-C:\Users\Rafael\source\repos\BruteForce Example\BruteForce Example\obj\Debug\BruteForce Example.csproj.CoreCompileInputs.cache
-C:\Users\Rafael\source\repos\BruteForce Example\BruteForce Example\obj\Debug\BruteForce Example.exe
-C:\Users\Rafael\source\repos\BruteForce Example\BruteForce Example\obj\Debug\BruteForce Example.pdb
